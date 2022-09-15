@@ -1,0 +1,60 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.0",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "id": 3,
+      "name": "W B Restaurant",
+      "address": "Noida",
+      "rating": "4.2",
+      "email": "wbr@test.com"
+    },
+    {
+      "id": 4,
+      "name": "BBQ nation",
+      "address": "Gurgaon",
+      "rating": "4.3",
+      "email": "bbqn@test.com"
+    },
+    {
+      "id": 5,
+      "name": "Haldiram nation",
+      "address": "Gurgaon",
+      "rating": "4.4",
+      "email": "haldiram@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Karachi",
+      "rating": "4.6",
+      "id": 6
+    },
+    {
+      "name": "GM Food",
+      "email": "gmfood@test.com",
+      "address": "North,Karachi",
+      "rating": "4.2",
+      "id": 7
+    },
+    {
+      "name": "Dua Food",
+      "email": "duafood@test.com",
+      "address": "New,Karachi",
+      "rating": "4.7",
+      "id": 8
+    }
+  ]
+}
