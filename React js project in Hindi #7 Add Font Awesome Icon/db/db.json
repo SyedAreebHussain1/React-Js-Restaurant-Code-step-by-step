@@ -1,0 +1,53 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "address": "Noida",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "id": 2,
+      "name": "McDonald",
+      "address": "Delhi",
+      "rating": "4.0",
+      "email": "mcdonald@test.com"
+    },
+    {
+      "name": "Ghousia Restaurant",
+      "email": "ghousia@test.com",
+      "address": "Gulshan",
+      "rating": "4.9",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "BBQ nation",
+      "address": "Gurgaon",
+      "rating": "4.3",
+      "email": "bbqn@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Nipa",
+      "rating": "4.0",
+      "id": 5
+    },
+    {
+      "name": "United Fast Food",
+      "email": "united@test.com",
+      "address": "North,Karachi",
+      "rating": "4.2",
+      "id": 6
+    },
+    {
+      "name": "Shan Restaurant",
+      "email": "shan@test.com",
+      "address": "Water Pump",
+      "rating": "3.9",
+      "id": 7
+    }
+  ]
+}
