@@ -1,0 +1,25 @@
+{
+  "restaurant": [
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Nipa",
+      "rating": "4.4",
+      "id": 5
+    },
+    {
+      "name": "United Fast Food",
+      "email": "united@test.com",
+      "address": "North,Karachi",
+      "rating": "4.2",
+      "id": 6
+    },
+    {
+      "name": "GM Fast Food",
+      "email": "gmfood@test.com",
+      "address": "5c4 North,karachi",
+      "rating": "4.0",
+      "id": 7
+    }
+  ]
+}
