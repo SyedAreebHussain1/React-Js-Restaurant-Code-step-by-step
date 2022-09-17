@@ -1,0 +1,32 @@
+{
+  "restaurant": [
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Nipa Gulshan",
+      "rating": "4.4",
+      "id": 5
+    },
+    {
+      "name": "GM Fast Food",
+      "email": "gmfood@test.com",
+      "address": "karachi",
+      "rating": "4.0",
+      "id": 7
+    },
+    {
+      "name": "Pizza Hut",
+      "email": "pizza@test.com",
+      "address": "Lahore",
+      "rating": "5.0",
+      "id": 9
+    },
+    {
+      "name": "Rock and Roll",
+      "email": "rar@test.com",
+      "address": "Lahore",
+      "rating": "4.4",
+      "id": 10
+    }
+  ]
+}
