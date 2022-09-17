@@ -1,0 +1,39 @@
+{
+  "restaurant": [
+    {
+      "name": "KFCC",
+      "email": "kfc@test.com",
+      "address": "Nipa",
+      "rating": "4.4",
+      "id": 5
+    },
+    {
+      "name": "United Fast Food",
+      "email": "united@test.com",
+      "address": "North,Karachi",
+      "rating": "4.2",
+      "id": 6
+    },
+    {
+      "name": "GM Fast Food",
+      "email": "gmfood@test.com",
+      "address": "karachi",
+      "rating": "4.0",
+      "id": 7
+    },
+    {
+      "name": "JAM",
+      "email": "jam@test.com",
+      "address": "India",
+      "rating": "4.0",
+      "id": 8
+    },
+    {
+      "name": "Pizza Hut",
+      "email": "pizza@test.com",
+      "address": "Lahore",
+      "rating": "5.0",
+      "id": 9
+    }
+  ]
+}
