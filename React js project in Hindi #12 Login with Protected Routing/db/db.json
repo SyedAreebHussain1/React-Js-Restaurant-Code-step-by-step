@@ -1,0 +1,80 @@
+{
+  "login": [
+    {
+      "name": "Anil",
+      "password": "abc@123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "Gulshan e iqbal",
+      "rating": "4.4",
+      "id": 5
+    },
+    {
+      "name": "Pizza Hut",
+      "email": "pizza@test.com",
+      "address": "Behria Town",
+      "rating": "5.0",
+      "id": 9
+    },
+    {
+      "name": "Rock and Roll",
+      "email": "rar@test.com",
+      "address": "Lahore",
+      "rating": "4.4",
+      "id": 10
+    },
+    {
+      "name": "Areeb Hotal",
+      "email": "areeb@test.com",
+      "address": "Johor Town Lahore",
+      "rating": "4.4",
+      "id": 11
+    },
+    {
+      "name": "MY Rest",
+      "email": "mr@test.com",
+      "address": "India",
+      "rating": "3.9",
+      "id": 12
+    },
+    {
+      "name": "Hello Rest",
+      "email": "hellor@test.com",
+      "address": "Hunza",
+      "rating": "4.4",
+      "id": 13
+    },
+    {
+      "name": "FC Food",
+      "email": "fcfood@test.com",
+      "address": "5 Star",
+      "rating": "3.7",
+      "id": 14
+    },
+    {
+      "name": "Shah Res",
+      "email": "shah@test.com",
+      "address": "King Road",
+      "rating": "4.5",
+      "id": 15
+    },
+    {
+      "name": "Roll point",
+      "email": "rollpoint@test.com",
+      "address": "Lahore",
+      "rating": "3.6",
+      "id": 16
+    },
+    {
+      "name": "HelloWorld!",
+      "email": "helloworld@test.com",
+      "address": "USA",
+      "rating": "3.8",
+      "id": 17
+    }
+  ]
+}
